@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054460737302",
+    "project_id": "insta-training-5ed15",
+    "storage_bucket": "insta-training-5ed15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054460737302:android:f41737080d8ea942afc237",
+        "android_client_info": {
+          "package_name": "com.example.insta_training"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhWIbVFV4vddmON1oL_LFtfBHIheKMOPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
